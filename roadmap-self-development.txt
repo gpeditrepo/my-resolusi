@@ -1,0 +1,7 @@
+Roadmap Self Development
+- Belajar Fundamental Pemrograman
+  >HTML
+  >CSS
+  >PHP
+  >Javascript
+  >Laravel
