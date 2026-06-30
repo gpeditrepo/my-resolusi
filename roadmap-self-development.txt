@@ -1,7 +1,56 @@
-Roadmap Self Development
-- Belajar Fundamental Pemrograman
-  >HTML
-  >CSS
-  >PHP
-  >Javascript
-  >Laravel
+Keputusan yang sangat tepat! Memang benar, meskipun **Vibe Coding**—kemampuan membangun perangkat lunak, game, atau web hanya dengan mendeskripsikan kebutuhanmu kepada AI (seperti fitur Vibe Code di Gemini Canvas)—terasa seperti sihir, kamu akan cepat tersesat jika tidak memahami fundamentalnya.
+
+Dalam vibe coding, AI adalah "tukang ketik" dan eksekutornya, tetapi **kamu adalah arsiteknya**. Jika arsiteknya tidak paham dasar bangunan, rumahnya bisa roboh saat ada error kecil.
+
+Berikut adalah *roadmap* (peta jalan) langkah demi langkah untuk menguasai fundamental hingga mahir melakukan vibe coding:
+
+### Fase 1: Logika Pemrograman Dasar (Fokus pada "Cara Berpikir")
+
+Sebelum menyuruh AI menulis kode, kamu harus tahu logika dasar bagaimana komputer menyelesaikan masalah. Pilih satu bahasa yang ramah pemula (saya merekomendasikan **Python** atau **JavaScript**).
+
+* **Variabel & Tipe Data:** Cara komputer menyimpan informasi (teks, angka, *list*).
+* **Control Flow (If/Else):** Logika pengambilan keputusan (contoh: "Jika user sudah login, tampilkan profil. Jika belum, tampilkan halaman login").
+* **Loops (Perulangan):** Cara melakukan tugas berulang-ulang tanpa menulis kode berkali-kali.
+* **Functions (Fungsi):** Memecah kode menjadi blok-blok kecil yang bisa digunakan ulang.
+
+> **Tujuan Fase Ini:** Kamu tidak perlu hafal sintaks (cara menulis kodenya) sampai mati, tapi kamu wajib paham konsep *logika*-nya agar tahu instruksi apa yang harus diberikan ke AI.
+
+### Fase 2: Pemahaman Sistem dan Arsitektur (Fokus pada "Gambaran Besar")
+
+AI bisa membuatkan kode yang canggih, tapi kamu harus tahu di mana kode itu diletakkan dan bagaimana cara kerjanya.
+
+* **Front-end vs Back-end:** Pahami perbedaan antara tampilan yang dilihat pengguna (Front-end: HTML, CSS, JavaScript) dan mesin di balik layar (Back-end/Database).
+* **Cara Kerja API:** Bagaimana aplikasi saling berkomunikasi dan bertukar data.
+* **Struktur Folder & File:** Memahami bagaimana proyek perangkat lunak disusun.
+
+> **Tujuan Fase Ini:** Saat kamu melakukan vibe coding, kamu tahu harus berkata, *"Buatkan komponen Front-end untuk tombol ini, lalu hubungkan ke API Back-end"* dengan tepat.
+
+### Fase 3: Membaca Kode & Debugging (*Superpower* Vibe Coder)
+
+Seorang vibe coder menghabiskan 80% waktunya untuk **membaca** kode buatan AI dan **memperbaiki** error, bukan menulis kode dari nol.
+
+* **Literasi Kode:** Latih matamu untuk membaca alur kode buatan AI dan memahami apa maksud dari setiap barisnya.
+* **Membaca Pesan Error (Error Handling):** Jangan panik saat melihat teks merah. Pelajari cara membaca *error log* agar kamu bisa memberi tahu AI, *"Ada error di baris 42 tentang 'undefined variable', tolong perbaiki."*
+* **Version Control (Git dasar):** Ini sangat penting! Terkadang AI akan merusak kodemu saat mencoba menambahkan fitur baru. Dengan Git, kamu bisa melakukan *rollback* (kembali ke versi sebelumnya) dengan aman.
+
+### Fase 4: Prompt Engineering untuk Programming
+
+Ini adalah inti dari Vibe Coding. Berkomunikasi dengan AI membutuhkan teknik yang sistematis.
+
+* **Dekomposisi Masalah:** Jangan meminta, *"Buatkan saya e-commerce yang mirip Amazon."* AI akan bingung. Pecah menjadi tugas kecil: *"Buatkan kerangka HTML untuk halaman produk,"* lalu *"Tambahkan fungsi keranjang belanja."*
+* **Context & Constraints:** Selalu berikan batasan yang jelas. Contoh: *"Gunakan Python dan framework Flask. Pastikan kodenya aman dari SQL Injection."*
+* **Iterasi:** Vibe coding adalah proses ping-pong. Kamu meminta, AI membuat, kamu menguji, kamu meminta perbaikan lagi.
+
+### Fase 5: Praktik Vibe Coding
+
+Mulai gunakan ruang kerja kolaboratif (seperti Canvas/Vibe Code) untuk membangun prototipe sungguhan.
+
+* **Proyek Level 1:** Kalkulator sederhana, aplikasi *To-Do List*, atau generator *quote* acak.
+* **Proyek Level 2:** Aplikasi cuaca yang mengambil data dari API publik, atau game tebak-tebakan.
+* **Proyek Level 3:** Aplikasi web penuh dengan database.
+
+---
+
+Dengan mengikuti *roadmap* ini, kamu tidak hanya akan menjadi pengguna AI biasa, tetapi seorang kreator yang memegang kendali penuh atas apa yang diciptakan oleh AI.
+
+Dari semua fase di atas, apakah kamu sudah punya bayangan proyek atau aplikasi pertama seperti apa yang ingin kamu buat suatu hari nanti?
